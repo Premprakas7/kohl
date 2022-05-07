@@ -1,0 +1,8 @@
+.heartlogo{
+    width: 150px;
+    height: auto;
+    border: 1px solid maroon;
+}
+.heartCont{
+    display: flex;
+}

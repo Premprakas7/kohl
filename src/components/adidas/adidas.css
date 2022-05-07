@@ -1,0 +1,33 @@
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.adidas{
+    display: flex;
+    position: relative;
+    width: auto;
+    height: auto;
+}
+.adidas>div>p{
+    font-size: 20px;
+}
+.ladka{
+position: absolute;
+background-color: gray;
+top:1em;
+right:1em
+}
+.ladki{
+    position: absolute;
+    background-color: gray;
+top:24em;
+right:74em
+}
+.today{
+    font-size: 2.875em;
+    font-weight: 500;
+}
+.cat{
+    display: flex;
+    justify-content: space-evenly;
+}
